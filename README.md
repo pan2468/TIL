@@ -8,3 +8,6 @@
 ### 👉 MySQL
 + <a href="https://github.com/pan2468/mysql_study/blob/main/1%EC%9E%A5%20MySQL%20%EC%86%8C%EA%B0%9C/MySQL%20%EC%86%8C%EA%B0%9C.md">MySQL 이란?</a>
 + <a href="https://github.com/pan2468/mysql_study/blob/main/1%EC%9E%A5%20MySQL%20%EC%86%8C%EA%B0%9C/MySQL%20%EC%9D%B8%EA%B0%80.md">왜 MySQL 이용하나요?</a>
+
+### 👉 자료구조와 알고리즘
++ <a href="">알고리즘이란?</a>
