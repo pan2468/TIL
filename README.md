@@ -12,3 +12,4 @@
 ### 👉 자료구조와 알고리즘
 + <a href="https://github.com/pan2468/TIL/blob/main/Algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%B4%EB%9E%80%3F.md">알고리즘이란?</a>
 + <a href="https://github.com/pan2468/TIL/blob/main/Data%20Structure/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EB%9E%80%3F.md">자료구조란?</a>
++ <a href="https://github.com/pan2468/TIL/blob/main/Data%20Structure/%EB%B0%B0%EC%97%B4.md">배열이란?</a>
