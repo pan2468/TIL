@@ -23,5 +23,6 @@
 
 ### 👉 ComputerScience
 + <a href="https://github.com/pan2468/TIL/blob/main/CS/Network/TCP%EC%99%80%20UDP%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md">TCP와 UDP차이점</a> 
++ <a href="https://github.com/pan2468/TIL/blob/main/CS/Network/OSI%207%EA%B3%84%EC%B8%B5.md">OSI 7계층</a> 
 
 
