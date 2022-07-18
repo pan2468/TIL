@@ -27,6 +27,9 @@
 + <a href="https://github.com/pan2468/TIL/blob/main/CS/Network/GET%EA%B3%BC%20POST%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md">GET과 POST 차이</a> 
 + <a href="https://github.com/pan2468/TIL/blob/main/CS/Network/HTTP%20%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%EC%9D%B4%EB%9E%80.md">HTTP 프로토콜이란?</a>
 + <a href="https://github.com/pan2468/TIL/blob/main/CS/OS/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EB%9E%80.md">운영체제란?</a> 
++ <a href="https://github.com/pan2468/TIL/blob/main/CS/Network/HTTP1%EA%B3%BC%20HTTP2%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md">HTTP1과 HTTP2 차이점</a> 
+
+
 
 
 
