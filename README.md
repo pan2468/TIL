@@ -31,7 +31,7 @@
 + <a href="https://github.com/pan2468/TIL/blob/main/CS/Network/%EC%BF%A0%EA%B8%B0%EC%99%80%20%EC%84%B8%EC%85%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md">쿠기와 세션 차이점</a> 
 
 ### 👉 OOP 
-+ <a href="">OOP 이란?</a> 
++ <a href="https://pan2468.tistory.com/92">OOP 이란?</a> 
 
 
 
