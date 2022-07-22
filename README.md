@@ -35,7 +35,12 @@
 
 ### 👉 UML
 + <a href="https://github.com/pan2468/TIL/blob/main/UML/%ED%86%B5%ED%95%A9%20%EB%AA%A8%EB%8D%B8%EB%A7%81%20%EC%96%B8%EC%96%B4.md">통합 모델링 언어</a> 
-+ <a href="https://github.com/pan2468/TIL/blob/main/UML/%EC%8B%9C%ED%80%80%EC%8A%A4%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.md">시퀀스 다이어그램</a> 
++ <a href="https://github.com/pan2468/TIL/blob/main/UML/%EC%8B%9C%ED%80%80%EC%8A%A4%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.md">시퀀스 다이어그램</a>
+
+
+### 👉 Back-End
+
++ <a href="">WAS와 WS차이점</a> 
 
 
 
