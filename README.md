@@ -18,6 +18,7 @@
 + <a href="https://github.com/pan2468/TIL/blob/main/Data%20Structure/%EB%A6%AC%EC%8A%A4%ED%8A%B8.md">리스트란?</a> 
 + <a href="https://github.com/pan2468/TIL/blob/main/Algorithm/%EC%A0%95%EB%A0%AC%EC%9D%B4%EB%9E%80%3F.md">정렬이란?</a> 
 + <a href="https://github.com/pan2468/TIL/blob/main/Algorithm/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EA%B2%80%EC%83%89.md">문자열 검색</a> 
++ <a href="https://github.com/pan2468/TIL/blob/main/Data%20Structure/%ED%9E%99%EC%9D%B4%EB%9E%80.md">힙이란</a> 
 
 ### 👉 TDD
 + <a href="https://github.com/pan2468/chap01-idea">테스트 주도 개발이란?</a> 
