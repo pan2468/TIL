@@ -20,6 +20,9 @@
 + <a href="https://github.com/pan2468/TIL/blob/main/Algorithm/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EA%B2%80%EC%83%89.md">문자열 검색</a> 
 + <a href="https://github.com/pan2468/TIL/blob/main/Data%20Structure/%ED%9E%99%EC%9D%B4%EB%9E%80.md">힙이란</a> 
 
+### 대규모 시스템 설계
++ <a href="">키-값 저장소설계</a> 
+
 ### 👉 TDD
 + <a href="https://github.com/pan2468/chap01-idea">테스트 주도 개발이란?</a> 
 
