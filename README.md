@@ -21,6 +21,7 @@
 + <a href="https://github.com/pan2468/TIL/blob/main/Data%20Structure/%ED%9E%99%EC%9D%B4%EB%9E%80.md">힙이란</a> 
 
 ### 👉 대규모 시스템 설계
++ <a href="https://pan2468.tistory.com/66">로드 밸런서</a>
 + <a href="">키-값 저장소설계</a> 
 
 ### 👉 TDD
