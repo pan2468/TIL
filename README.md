@@ -23,7 +23,7 @@
 ### 👉 대규모 시스템 설계
 + <a href="https://pan2468.tistory.com/66">로드 밸런서</a>
 + <a href="">키-값 저장소설계</a> 
-+ <a href="">분산 시스템을 위한 유일 ID 생성기 설계</a> 
++ <a href="https://pan2468.tistory.com/101">분산 시스템을 위한 유일 ID 생성기 설계</a> 
 
 
 ### 👉 TDD
