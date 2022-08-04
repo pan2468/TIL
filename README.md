@@ -19,6 +19,7 @@
 + <a href="https://github.com/pan2468/TIL/blob/main/Algorithm/%EC%A0%95%EB%A0%AC%EC%9D%B4%EB%9E%80%3F.md">정렬이란?</a> 
 + <a href="https://github.com/pan2468/TIL/blob/main/Algorithm/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EA%B2%80%EC%83%89.md">문자열 검색</a> 
 + <a href="https://github.com/pan2468/TIL/blob/main/Data%20Structure/%ED%9E%99%EC%9D%B4%EB%9E%80.md">힙이란</a> 
++ <a href="">시간 복잡도</a> 
 
 ### 👉 대규모 시스템 설계
 + <a href="https://pan2468.tistory.com/66">로드 밸런서</a>
