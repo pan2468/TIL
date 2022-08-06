@@ -67,7 +67,7 @@
 
 ### 👉 Android
 + <a href="https://github.com/pan2468/TIL/blob/main/Android/Android.md">Android </a> 
-+ <a href="">Kotlin </a> 
++ <a href="https://github.com/pan2468/TIL/blob/main/Android/Kotlin.md">Kotlin </a> 
 
 
 
