@@ -60,7 +60,7 @@
 + <a href="https://github.com/pan2468/TIL/blob/main/Back-End/Spring%20Security.md">Spring Security이란</a>
 + <a href="https://pan2468.tistory.com/103">Spring Boot이란</a> 
 + <a href="https://pan2468.tistory.com/94">Spring MVC란?</a> 
-+ <a href="">Spring DI</a> 
++ <a href="https://github.com/pan2468/TIL/blob/main/Back-End/Spring%20DI.md">Spring DI</a> 
 + <a href="https://pan2468.tistory.com/95">Java언어의 장단점</a> 
 + <a href="https://pan2468.tistory.com/102">Java 8 버전이란?</a>
 + <a href="">Java 11 버전이란?</a>
