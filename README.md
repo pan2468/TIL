@@ -68,6 +68,10 @@
 + <a href="https://pan2468.tistory.com/104">ORM 이란</a>
 + <a href="https://github.com/pan2468/TIL/blob/main/Back-End/MyBatis%20%EA%B0%9C%EB%85%90.md">MyBatis 개념</a>
 
+### 👉 Design Pattern
++ <a href="">디자인 패턴이란</a>
+
+
 ### 👉 Android
 + <a href="https://github.com/pan2468/TIL/blob/main/Android/Android.md">Android </a> 
 + <a href="https://github.com/pan2468/TIL/blob/main/Android/Kotlin.md">Kotlin </a> 
