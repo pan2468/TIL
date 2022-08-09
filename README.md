@@ -70,7 +70,7 @@
 
 ### 👉 Design Pattern
 + <a href="https://github.com/pan2468/TIL/blob/main/Design%20Pattern/Design%20Pattern%20%EC%84%A4%EB%AA%85.md">디자인 패턴이란</a>
-+ <a href="https://github.com/pan2468/TIL/blob/main/Design%20Pattern/Design%20Pattern%20%EC%84%A4%EB%AA%85.md">디자인 패턴 종류</a>
++ <a href="">디자인 패턴 종류</a>
 
 
 ### 👉 Android
