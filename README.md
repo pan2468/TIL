@@ -66,7 +66,7 @@
 + <a href="https://pan2468.tistory.com/102">Java 8 버전이란?</a>
 + <a href="">Java 11 버전이란?</a>
 + <a href="https://pan2468.tistory.com/104">ORM 이란</a>
-+ <a href="">MyBatis 개념</a>
++ <a href="https://github.com/pan2468/TIL/blob/main/Back-End/MyBatis%20%EA%B0%9C%EB%85%90.md">MyBatis 개념</a>
 
 ### 👉 Android
 + <a href="https://github.com/pan2468/TIL/blob/main/Android/Android.md">Android </a> 
