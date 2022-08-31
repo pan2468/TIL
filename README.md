@@ -86,7 +86,7 @@
 + <a href="https://github.com/pan2468/TIL/blob/main/JPA/JPA.md">JPA 란</a>
 + <a href="https://github.com/pan2468/JPA/blob/main/1%EC%9E%A5%20JPA%20%EC%86%8C%EA%B0%9C/SQL%EC%9D%84%20%EC%A7%81%EC%A0%91%20%EB%8B%A4%EB%A3%B0%20%EB%95%8C%20%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94%20%EB%AC%B8%EC%A0%9C%EC%A0%90.md">SQL을 직접 다룰 때 발생하는 문제점</a>
 + <a href="https://github.com/pan2468/JPA/blob/main/1%EC%9E%A5%20JPA%20%EC%86%8C%EA%B0%9C/%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84%20%EB%B6%88%EC%9D%BC%EC%B9%98.md">패러다임 불일치</a>
-+ <a href="">Hibernate ORM</a>
++ <a href="https://pan2468.tistory.com/108">Hibernate ORM</a>
 
 ### 👉 Design Pattern
 + <a href="https://github.com/pan2468/TIL/blob/main/Design%20Pattern/Design%20Pattern%20%EC%84%A4%EB%AA%85.md">디자인 패턴이란</a>
