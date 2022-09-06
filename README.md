@@ -100,7 +100,7 @@
 + <a href="https://github.com/pan2468/TIL/blob/main/Back-End/NodeJS%20%EA%B0%9C%EB%85%90.md">NodeJS이란</a>
 + <a href="https://github.com/pan2468/TIL/blob/main/JavaScript/TypeScript.md">TypeScript 이란</a>
 + <a href="">Nest.js 이란</a>
-+ <a href="">React</a>
++ <a href="">React.js</a>
 
 
 
