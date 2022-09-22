@@ -65,7 +65,7 @@
 ### 👉 Front-End
 + <a href="https://pan2468.tistory.com/121">React.js 이벤트 핸들링</a>
 + <a href="https://pan2468.tistory.com/118">React.js JSX문법 사용예시</a>
-+ <a href="https://pan2468.tistory.com/120">React.js 프로퍼티(Props) </a>
++ <a href="https://pan2468.tistory.com/120">React.js 프로퍼티(Props)사용하기</a>
 ### 👉 Back-End
 
 + <a href="">WAS와 WS차이점</a> 
