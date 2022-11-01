@@ -7,6 +7,7 @@
 + <a href="https://github.com/pan2468/TIL/blob/main/Git/%EA%B9%83%20%EA%B0%9C%EB%85%90%20%EC%9E%A1%EA%B8%B0/%EA%B9%83%20%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%83%9D%EC%84%B1.md">Git 저장소 생성</a>
 + <a href="https://github.com/pan2468/TIL/blob/main/Git/%EA%B9%83%20%EA%B0%9C%EB%85%90%20%EC%9E%A1%EA%B8%B0/%EC%9B%8C%ED%82%B9%20%EB%94%94%EB%A0%89%ED%84%B0%EB%A6%AC.md">Git 워킹디렉터리</a>
 + <a href="https://github.com/pan2468/TIL/blob/main/Git/%EA%B9%83%EB%9E%A9/GitLab.md">GitLab</a>
++ <a href="https://velog.io/@kw2577/Git-branch-%EC%A0%84%EB%9E%B5">Git flow 이슈추적</a>
 
 ### 👉 DataBase
 + <a href="https://github.com/pan2468/mysql_study/blob/main/1%EC%9E%A5%20MySQL%20%EC%86%8C%EA%B0%9C/MySQL%20%EC%86%8C%EA%B0%9C.md">MySQL 이란?</a>
