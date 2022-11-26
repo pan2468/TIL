@@ -90,6 +90,7 @@
 + <a href="">Golang 언어</a>
 + <a href="">Ruby</a>
 + <a href="">Java CollectionFramework</a>
++ <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/reduce.html">kotlin reduce</a>
 
 ### 👉 JPA
 + <a href="https://github.com/pan2468/TIL/blob/main/JPA/JPA.md">JPA 란</a>
