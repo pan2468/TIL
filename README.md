@@ -55,6 +55,7 @@
 + <a href="https://github.com/pan2468/TIL/blob/main/CS/OS/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EB%9E%80.md">운영체제란?</a> 
 + <a href="https://github.com/pan2468/TIL/blob/main/CS/Network/HTTP1%EA%B3%BC%20HTTP2%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md">HTTP1과 HTTP2 차이점</a> 
 + <a href="https://github.com/pan2468/TIL/blob/main/CS/Network/%EC%BF%A0%EA%B8%B0%EC%99%80%20%EC%84%B8%EC%85%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md">쿠기와 세션 차이점</a> 
++ <a href="https://pan2468.tistory.com/133">HTTP 개념 정리</a>
 
 ### 👉 OOP 
 + <a href="https://pan2468.tistory.com/92">OOP 이란?</a> 
