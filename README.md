@@ -59,6 +59,7 @@
 + <a href="https://pan2468.tistory.com/134">웹 서버의 IP 주소를 DNS 서버에 조회한다</a>
 + <a href="https://pan2468.tistory.com/136">프로토콜 스택 메세지 송.수신 동작 의뢰</a>
 + <a href="https://pan2468.tistory.com/137">네트워크란 무엇인가?</a>
++ <a href="https://fomaios.tistory.com/entry/Network-REST-API%EB%9E%80-feat-%EC%9B%90%EC%B9%99%EA%B3%BC-%EB%84%A4%EC%9D%B4%EB%B0%8D-%EA%B7%9C%EC%B9%99-What-is-a-REST-API">Rest ful Api 네이밍 규칙</a>
 
 ### 👉 OOP 
 + <a href="https://pan2468.tistory.com/92">OOP 이란?</a> 
