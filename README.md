@@ -20,7 +20,7 @@
 + <a href="https://github.com/pan2468/TIL/blob/main/DataBase/RDBMS.md">RDBMS</a>
 + <a href="https://github.com/pan2468/TIL/blob/main/DataBase/%EB%AA%BD%EA%B3%A0DB(MongoDB).md">MongoDB</a>
 
-### 👉 자료구조와 알고리즘
+### 👉 Algorithm & DataStructure
 + <a href="https://github.com/pan2468/TIL/blob/main/Algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%B4%EB%9E%80%3F.md">알고리즘이란?</a>
 + <a href="https://github.com/pan2468/TIL/blob/main/Data%20Structure/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EB%9E%80%3F.md">자료구조란?</a>
 + <a href="https://github.com/pan2468/TIL/blob/main/Data%20Structure/%EB%B0%B0%EC%97%B4.md">배열이란?</a>
@@ -97,20 +97,9 @@
 + <a href="https://github.com/pan2468/JPA/blob/main/1%EC%9E%A5%20JPA%20%EC%86%8C%EA%B0%9C/%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84%20%EB%B6%88%EC%9D%BC%EC%B9%98.md">패러다임 불일치</a>
 + <a href="https://pan2468.tistory.com/108">Hibernate ORM</a>
 
-### 👉 Design Pattern
+### 👉 DesignPattern
 + <a href="https://github.com/pan2468/TIL/blob/main/Design%20Pattern/Design%20Pattern%20%EC%84%A4%EB%AA%85.md">디자인 패턴이란</a>
 + <a href="https://github.com/pan2468/TIL/blob/main/Back-End/C%EC%99%80%20C++%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md">디자인 패턴 종류</a>
-
-### 👉 JavaScript
-+ <a href="https://github.com/pan2468/TIL/blob/main/JavaScript/JavaScript%20%EA%B0%9C%EB%85%90.md">JavaScript 이란</a>
-+ <a href="https://github.com/pan2468/TIL/blob/main/Back-End/NodeJS%20%EA%B0%9C%EB%85%90.md">NodeJS이란</a>
-+ <a href="">NodeJS 사용이유</a>
-+ <a href="https://github.com/pan2468/TIL/blob/main/JavaScript/TypeScript.md">TypeScript 이란</a>
-+ <a href="">Nest.js 이란</a>
-+ <a href="https://github.com/pan2468/TIL/blob/main/JavaScript/React.js.md">React.js이란</a>
-+ <a href="">Vue.js</a>
-+ <a href="https://github.com/pan2468/TIL/blob/main/JavaScript/%EC%8B%9C%ED%80%84%EB%9D%BC%EC%9D%B4%EC%A6%88.md">시퀄라이즈</a>
-+ <a href="https://pan2468.tistory.com/114">req, res 객체 개념과 사용법</a>
 
 
 
