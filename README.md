@@ -68,14 +68,7 @@
 + <a href="https://github.com/pan2468/TIL/blob/main/UML/%ED%86%B5%ED%95%A9%20%EB%AA%A8%EB%8D%B8%EB%A7%81%20%EC%96%B8%EC%96%B4.md">통합 모델링 언어</a> 
 + <a href="https://github.com/pan2468/TIL/blob/main/UML/%EC%8B%9C%ED%80%80%EC%8A%A4%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.md">시퀀스 다이어그램</a>
 
-### 👉 Front-End
-+ <a href="https://pan2468.tistory.com/121">React.js 이벤트 핸들링</a>
-+ <a href="https://pan2468.tistory.com/118">React.js JSX문법 사용예시</a>
-+ <a href="https://pan2468.tistory.com/120">React.js 프로퍼티(Props)사용하기</a>
-+ <a href="https://pan2468.tistory.com/119">React.js에서 모듈 불러오기</a>
-
 ### 👉 Back-End
-
 + <a href="">WAS와 WS차이점</a> 
 + <a href="https://github.com/pan2468/TIL/blob/main/Back-End/Spring%20Framework.md">Spring Framework</a>
 + <a href="https://github.com/pan2468/TIL/blob/main/Back-End/Spring%20Security.md">Spring Security이란</a>
@@ -118,17 +111,6 @@
 + <a href="">Vue.js</a>
 + <a href="https://github.com/pan2468/TIL/blob/main/JavaScript/%EC%8B%9C%ED%80%84%EB%9D%BC%EC%9D%B4%EC%A6%88.md">시퀄라이즈</a>
 + <a href="https://pan2468.tistory.com/114">req, res 객체 개념과 사용법</a>
-
-
-### 👉 Android
-+ <a href="https://github.com/pan2468/TIL/blob/main/Android/Android.md">Android </a> 
-+ <a href="https://github.com/pan2468/TIL/blob/main/Android/Kotlin.md">Kotlin </a> 
-+ <a href="https://github.com/pan2468/TIL/blob/main/Android/Flutter.md">Flutter </a> 
-
-
-
-### 👉 도커/쿠버네티스
-+ <a href="">도커/쿠버네티스</a> 
 
 
 
