@@ -101,7 +101,8 @@
 + <a href="https://github.com/pan2468/TIL/blob/main/Design%20Pattern/Design%20Pattern%20%EC%84%A4%EB%AA%85.md">디자인 패턴이란</a>
 + <a href="https://github.com/pan2468/TIL/blob/main/Back-End/C%EC%99%80%20C++%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md">디자인 패턴 종류</a>
 
-
+### 개발자 테스트 시라니오
++ <a href="https://seungwongo.medium.com/개발자의-테스트-시나리오를-통해-보는-프로그래밍-씽킹-d2be612e8a80">테스트 시나리오 작성법</a>
 
 
 
