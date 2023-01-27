@@ -90,6 +90,7 @@
 + <a href="">Java CollectionFramework</a>
 + <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/reduce.html">kotlin reduce</a>
 + <a href="https://android-blog.dev/61">Kotlin Filter 함수 사용법</a>
++ <a href="https://www.delftstack.com/ko/howto/kotlin/difference-between-fold-and-reduce-in-kotlin/">Kotlin fold() 함수 사용법</a>
 
 ### 👉 JPA
 + <a href="https://github.com/pan2468/TIL/blob/main/JPA/JPA.md">JPA 란</a>
