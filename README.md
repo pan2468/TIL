@@ -77,11 +77,14 @@
 + <a href="https://github.com/pan2468/TIL/blob/main/Back-End/Spring%20DI.md">Spring DI</a> 
 + <a href="https://github.com/pan2468/TIL/blob/main/Back-End/Spring%20IOC.md">Spring IOC</a> 
 + <a href="https://github.com/pan2468/TIL/blob/main/Back-End/Spring%20AOP%20%EC%9D%B4%EB%9E%80.md">Spring AOP</a> 
++ <a href="https://pan2468.tistory.com/104">ORM 이란</a>
++ <a href="https://github.com/pan2468/TIL/blob/main/Back-End/MyBatis%20%EA%B0%9C%EB%85%90.md">MyBatis 개념</a>
+
+
+### Language
 + <a href="https://pan2468.tistory.com/95">Java언어의 장단점</a> 
 + <a href="https://pan2468.tistory.com/102">Java 8 버전이란?</a>
 + <a href="">Java 11 버전이란?</a>
-+ <a href="https://pan2468.tistory.com/104">ORM 이란</a>
-+ <a href="https://github.com/pan2468/TIL/blob/main/Back-End/MyBatis%20%EA%B0%9C%EB%85%90.md">MyBatis 개념</a>
 + <a href="https://github.com/pan2468/TIL/blob/main/Back-End/C%EC%99%80%20C%2B%2B%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md">C와 C++ 차이점</a>
 + <a href="">Java와 Kotlin 차이점</a>
 + <a href="">REST API 이란</a>
