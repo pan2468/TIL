@@ -101,13 +101,16 @@
 + <a href="https://github.com/pan2468/JPA/blob/main/1%EC%9E%A5%20JPA%20%EC%86%8C%EA%B0%9C/%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84%20%EB%B6%88%EC%9D%BC%EC%B9%98.md">패러다임 불일치</a>
 + <a href="https://pan2468.tistory.com/108">Hibernate ORM</a>
 
+### 👉 Android
++ <a href="https://velog.io/@cloud0/Android-4대-컴포넌트란-무엇인가">안드로이드 4대 컴포넌트</a>
+
+
 ### 👉 DesignPattern
 + <a href="https://github.com/pan2468/TIL/blob/main/Design%20Pattern/Design%20Pattern%20%EC%84%A4%EB%AA%85.md">디자인 패턴이란</a>
 + <a href="https://github.com/pan2468/TIL/blob/main/Back-End/C%EC%99%80%20C++%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md">디자인 패턴 종류</a>
 
 ### 개발자 테스트 시라니오
 + <a href="https://seungwongo.medium.com/개발자의-테스트-시나리오를-통해-보는-프로그래밍-씽킹-d2be612e8a80">테스트 시나리오 작성법</a>
-
 
 
 
