@@ -103,7 +103,7 @@
 
 ### 👉 Android
 + <a href="https://velog.io/@cloud0/Android-4대-컴포넌트란-무엇인가">안드로이드 4대 컴포넌트</a>
-
++ <a href="https://bbaktaeho-95.tistory.com/62">안드로이드 생명주기</a>
 
 ### 👉 DesignPattern
 + <a href="https://github.com/pan2468/TIL/blob/main/Design%20Pattern/Design%20Pattern%20%EC%84%A4%EB%AA%85.md">디자인 패턴이란</a>
