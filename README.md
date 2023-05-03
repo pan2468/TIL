@@ -32,6 +32,7 @@
 + <a href="https://github.com/pan2468/TIL/blob/main/Data%20Structure/%ED%9E%99%EC%9D%B4%EB%9E%80.md">힙이란</a> 
 + <a href="https://github.com/pan2468/TIL/blob/main/Algorithm/%EC%8B%9C%EA%B0%84%20%EB%B3%B5%EC%9E%A1%EB%8F%84.md">시간 복잡도</a> 
 + <a href="https://blog.naver.com/ycpiglet/222113989214">플로우 차트 프로그램 순서도 그리기</a>
++ <a href="https://pan2468.tistory.com/165">알고있니? 알고리즘</a>
 
 ### 👉 대규모 시스템 설계
 + <a href="https://pan2468.tistory.com/66">로드 밸런서</a>
